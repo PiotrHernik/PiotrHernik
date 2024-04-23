@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Piotr Hernik</h1>
+<h1 align="center">Hi 👋, I'm Piotr</h1>
 <p align="center">
   <img src=https://github.com/PiotrHernik/PiotrHernik/assets/147530998/1d0ede1f-539e-4e8c-8ab1-c66ddbb844ad width="300" height="300" align="right">
   
